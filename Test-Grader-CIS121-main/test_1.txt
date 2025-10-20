@@ -1,0 +1,24 @@
+Name    Score
+Tori   24%
+Jimmy   28%
+Julia   16%
+Tricia   0%
+Mike   24%
+Jake   28%
+Evan   28%
+Sam   24%
+Aedan   12%
+Lily   20%
+Riley   100%
+Abby   24%
+Emily   24%
+Max   32%
+John   28%
+Tyler   32%
+Chloe   16%
+Gerry   16%
+Kayden   36%
+Owen   20%
+Ian   24%
+
+Class Average - 26%
